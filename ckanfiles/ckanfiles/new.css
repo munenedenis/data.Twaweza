@@ -4471,7 +4471,7 @@ ul.icons li .icon-large:before {
   font-size: 11px;
 }
 .tag {
-  background: url("images/background-tag.png") no-repeat -13px center;
+  background: url("https://raw.github.com/Code4Kenya/data.Twaweza/master/ckanfiles/ckanfiles/images/background-tag.png") no-repeat -13px center;
   position: relative;
   display: block;
   font-size: 11px;
@@ -4484,7 +4484,7 @@ ul.icons li .icon-large:before {
 }
 .tag:before {
   content: "";
-  background: url("images/background-tag.png") no-repeat center left;
+  background: url("https://raw.github.com/Code4Kenya/data.Twaweza/master/ckanfiles/ckanfiles/images/background-tag.png") no-repeat center left;
   position: absolute;
   display: block;
   top: 0;
@@ -4929,7 +4929,7 @@ ol.media-grid:after {
   display: block;
 }
 .nav-item.active > a {
-  background: url("images/background-tag.png") no-repeat -13px center;
+  background: url("https://raw.github.com/Code4Kenya/data.Twaweza/master/ckanfiles/ckanfiles/images/background-tag.png") no-repeat -13px center;
   position: relative;
   display: block;
   font-size: 11px;
@@ -4954,7 +4954,7 @@ ol.media-grid:after {
 }
 .nav-item.active > a:before {
   content: "";
-  background: url("images/background-tag.png") no-repeat center left;
+  background: url("https://raw.github.com/Code4Kenya/data.Twaweza/master/ckanfiles/ckanfiles/images/background-tag.png") no-repeat center left;
   position: absolute;
   display: block;
   top: 0;
@@ -5000,7 +5000,7 @@ ol.media-grid:after {
   top: 2px;
   width: 16px;
   height: 16px;
-  background-image: url("images/sprite-ckan-icons.png");
+  background-image: url("https://raw.github.com/Code4Kenya/data.Twaweza/master/ckanfiles/ckanfiles/images/sprite-ckan-icons.png");
   background-repeat: no-repeat;
   background-position: 16px 16px;
   content: "";
@@ -5221,7 +5221,7 @@ textarea {
   top: 2px;
   width: 16px;
   height: 16px;
-  background-image: url("images/sprite-ckan-icons.png");
+  background-image: url("https://raw.github.com/Code4Kenya/data.Twaweza/master/ckanfiles/ckanfiles/images/sprite-ckan-icons.png");
   background-repeat: no-repeat;
   background-position: 16px 16px;
   width: 17px;
@@ -5583,7 +5583,7 @@ textarea {
 }
 .resource-upload-field.loading {
   display: inline-block;
-  background: url("images/loading-spinner.gif") no-repeat center right;
+  background: url("https://raw.github.com/Code4Kenya/data.Twaweza/master/ckanfiles/ckanfiles/images/loading-spinner.gif") no-repeat center right;
   padding-right: 5px;
 }
 .select2-container .select2-choice input,
@@ -5746,7 +5746,7 @@ textarea {
   margin-top: -17px;
   width: 30px;
   height: 30px;
-  background: transparent url("images/icon-search-27x26.png") no-repeat center center;
+  background: transparent url("https://raw.github.com/Code4Kenya/data.Twaweza/master/ckanfiles/ckanfiles/images/icon-search-27x26.png") no-repeat center center;
   text-indent: -900em;
 }
 .control-order-by {
@@ -5822,7 +5822,7 @@ textarea {
   top: 2px;
   width: 16px;
   height: 16px;
-  background-image: url("images/sprite-ckan-icons.png");
+  background-image: url("https://raw.github.com/Code4Kenya/data.Twaweza/master/ckanfiles/ckanfiles/images/sprite-ckan-icons.png");
   background-repeat: no-repeat;
   background-position: 16px 16px;
   width: 16px;
@@ -6362,7 +6362,7 @@ textarea {
   top: 2px;
   width: 16px;
   height: 16px;
-  background-image: url("images/sprite-ckan-icons.png");
+  background-image: url("https://raw.github.com/Code4Kenya/data.Twaweza/master/ckanfiles/ckanfiles/images/sprite-ckan-icons.png");
   background-repeat: no-repeat;
   background-position: 16px 16px;
 }
@@ -6554,11 +6554,11 @@ textarea {
   top: 2px;
   width: 16px;
   height: 16px;
-  background-image: url("images/sprite-ckan-icons.png");
+  background-image: url("https://raw.github.com/Code4Kenya/data.Twaweza/master/ckanfiles/ckanfiles/images/sprite-ckan-icons.png");
   background-repeat: no-repeat;
   background-position: 16px 16px;
   text-indent: -900em;
-  background: url("images/sprite-resource-icons.png") no-repeat 0 0;
+  background: url("https://raw.github.com/Code4Kenya/data.Twaweza/master/ckanfiles/ckanfiles/images/sprite-resource-icons.png") no-repeat 0 0;
 }
 .format-label:last-child {
   *margin-left: 0;
@@ -6688,7 +6688,7 @@ li .icon-large:before {
   margin-bottom: 0;
 }
 .hero {
-  background: url("images/background-tile.png");
+  background: url("https://raw.github.com/Code4Kenya/data.Twaweza/master/ckanfiles/ckanfiles/images/background-tile.png");
 }
 .hero:after {
   background-color: rgba(0, 0, 0, 0.09);
@@ -7117,7 +7117,7 @@ li .icon-large:before {
   height: 31px;
   margin-top: 2px;
   margin-bottom: 8px;
-  background: url("images/c4k.png") no-repeat top left;
+  background: url("https://raw.github.com/Code4Kenya/data.Twaweza/master/ckanfiles/ckanfiles/images/c4k.png") no-repeat top left;
  /* background: url("images/ckan-logo-footer.png") no-repeat */ top left;
   text-indent: -900em;
 }
@@ -7147,7 +7147,7 @@ li .icon-large:before {
 .lang-dropdown .select2-result-label[data-value]:before {
   content: "";
   display: inline-block;
-  background-image: url("images/flags.png");
+  background-image: url("https://raw.github.com/Code4Kenya/data.Twaweza/master/ckanfiles/ckanfiles/images/flags.png");
   background-repeat: no-repeat;
   background-position: 0 11px;
   width: 17px;
@@ -7295,7 +7295,7 @@ li .icon-large:before {
   margin: 10px 0;
   padding: 0;
   list-style-type: none;
-  background: transparent url('images/dotted.png') 14px 0 repeat-y;
+  background: transparent url('https://raw.github.com/Code4Kenya/data.Twaweza/master/ckanfiles/ckanfiles/images/dotted.png') 14px 0 repeat-y;
 }
 .activity .item {
   margin: 0 0 15px 0;
@@ -7692,7 +7692,7 @@ iframe {
   float: left;
 }
 .ie7 .nav-item.active > a {
-  background-image: url(../images/background-tag-ie7.png);
+  background-image: url(https://raw.github.com/Code4Kenya/data.Twaweza/master/ckanfiles/ckanfiles/images/background-tag-ie7.png);
   background-position: 0 0;
 }
 .ie7 .module-narrow .nav-item.image {
@@ -7712,7 +7712,7 @@ iframe {
 .ie7 .toolbar .breadcrumb li {
   padding-right: 10px;
   margin-right: 5px;
-  background: transparent url("images/breadcrumb-slash-ie7.png") 100% 50% no-repeat;
+  background: transparent url("https://raw.github.com/Code4Kenya/data.Twaweza/master/ckanfiles/ckanfiles/images/breadcrumb-slash-ie7.png") 100% 50% no-repeat;
 }
 .ie7 .toolbar .breadcrumb li.active {
   background-image: none;
